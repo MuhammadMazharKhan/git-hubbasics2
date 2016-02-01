@@ -7,5 +7,6 @@ namespace ConsoleApplication1
 {
     class test
     {
+
     }
 }
